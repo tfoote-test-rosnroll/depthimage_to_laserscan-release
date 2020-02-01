@@ -1,1 +1,1 @@
-{"trim": "", "base": "a413cdd", "trimbase": "", "parent": "debian/eloquent/depthimage_to_laserscan", "previous": "5b3be81"}
+{"base": "cb35453", "parent": "debian/verystable/depthimage_to_laserscan", "previous": "476cec9", "trim": "", "trimbase": ""}
